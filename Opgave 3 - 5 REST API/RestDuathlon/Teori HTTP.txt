@@ -1,0 +1,32 @@
+HTTP protokollen 
+
+Hypertext Transfer Protocol (HTTP) 
+HTTP protocollen bruges primært på World wide web (WWW) 
+HTTP er en protocol der beder en server på TCP - port 80 om specifikke recourcer. 
+
+forskellige typer af forespørgelser kunne være: 
+GET – Bede om/læse en webside.
+HEAD – Læse en websides headerinformation.
+POST – Sender information til en webside (f.eks. fra formular hvor brugeren har udfyldt nogle oplysninger).
+PUT – (Over)skrive en webside (dvs lagre en ny version).
+DELETE – Slette en webside.
+TRACE – Sende forespørgslen uændret tilbage (for at kontrollere forbindelsen)
+OPTIONS – Spørger hvilke metoder serveren understøtter.
+CONNECT – Anvendes med proxy-servere til SSL-tunneller.
+
+
+HTTP Headers 
+et HTTP header er lader klienten passere additional information med en HTTP anmodning eller response. 
+En HTTP header kan bruges til at sende information om den request context mand gerne vil have. Dvs. at serveren kan vide
+hvilken information clienten gerne vil have. 
+
+Der findes 
+Request headers 
+Response headers
+Representation headers 
+Payload headers
+
+Rest benytter HTTP protocollen ved at vi indtaster en HTTP request header så serveren ved hvilken data der skal 
+returneres til os. Her bruger vi også CORS så serveren kan vide hvilke HTTP headers der er godkendt til at anmode om data 
+fra serveren. 
+

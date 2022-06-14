@@ -1,0 +1,54 @@
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/appsettings.Development.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/appsettings.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/RestDuathlon
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/RestDuathlon.deps.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/RestDuathlon.runtimeconfig.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/RestDuathlon.pdb
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.AssemblyReference.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.AssemblyInfoInputs.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.AssemblyInfo.cs
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.CoreCompileInputs.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.MvcApplicationPartsAssemblyInfo.cs
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.MvcApplicationPartsAssemblyInfo.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/staticwebassets.build.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/staticwebassets.development.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/scopedcss/bundle/RestDuathlon.styles.css
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.CopyComplete
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/refint/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.pdb
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/RestDuathlon.genruntimeconfig.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/RestDuathlon/RestDuathlon/obj/Debug/net6.0/ref/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/appsettings.Development.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/appsettings.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/RestDuathlon
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/RestDuathlon.deps.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/RestDuathlon.runtimeconfig.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/RestDuathlon.pdb
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.AssemblyReference.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.AssemblyInfoInputs.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.AssemblyInfo.cs
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.CoreCompileInputs.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.MvcApplicationPartsAssemblyInfo.cs
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.MvcApplicationPartsAssemblyInfo.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/staticwebassets.build.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/staticwebassets.development.json
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/scopedcss/bundle/RestDuathlon.styles.css
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.csproj.CopyComplete
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/refint/RestDuathlon.dll
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.pdb
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/RestDuathlon.genruntimeconfig.cache
+/Users/malthethomsen/Dropbox/Datamatiker/3. Semester/Afleveringer/PrøveEksamen2/Opgave 3 - 5 REST API/RestDuathlon/obj/Debug/net6.0/ref/RestDuathlon.dll
